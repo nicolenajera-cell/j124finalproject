@@ -1,4 +1,7 @@
 # Evaluating Unintentional Overdose Death Rates in San Francisco since 2020
+Heres a link to my Google Sheet: (https://docs.google.com/spreadsheets/d/1MFw5_SIysLEwY068_xSk1wgg_chUAOc8EOsivsKmlO4/edit?usp=sharing)
+
+Heres a link to my original datasource: (https://data.sfgov.org/Health-and-Social-Services/Preliminary-Unintentional-Drug-Overdose-Deaths/jxrr-bmra/about_data)
 ## Data Acquisition and Potential Challenges
 ### Overview: 
 - Data was found through DataSF 
